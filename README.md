@@ -21,5 +21,23 @@ The Local Government Association said councils were not recompensed for their co
 
 On the other hand, the Ministry of Housing, Communities and Local Government said some struggling councils had let down their residents through "chronic financial mismanagement".
 
+# Method
+
+For our study we concentrated on the upper-tier authorities in England and Wales as well as the single-tier councils in Scotland and Northern Ireland. 
+
+Between April and June, we approached 217 councils in total, asking for details contained in each authority’s ratified budget for 2021-22 and their medium-term financial strategies.
+
+We asked the councils to provide: 
+
+- Details of whether it had risen council tax in the budget and how the bill for a Band D property would be affected by the rise.
+- Details of any savings planned for 2021-22 and how much of that pertained to adult social services.
+- Whether the council planned to use general reserves to support services in 2021-22.
+- Whether the council’s medium-term financial strategy contained an as yet un-funded shortfall for the 2023-24 financial year and how much that shortfall was.
+- Whether the council had applied for a capitalisation direction and how much it had applied for.
+
+# Data
+
+Our findings were shared in a spreadsheet, here [https://docs.google.com/spreadsheets/d/1HgSo21e_8k7GwWLhfoXnTZNtM6f9pQIL8eE3XeOQMDg/edit?usp=sharing]
+We also produced a detailed background pack, here [https://docs.google.com/document/d/1Y8yT5uh47Ev3iX_eo_EDXHy9TK8ck2WxcX9xHr0zKVA/edit?usp=sharing]
 
 
