@@ -37,7 +37,18 @@ We asked the councils to provide:
 
 # Data
 
-Our findings were shared in a spreadsheet, here [https://docs.google.com/spreadsheets/d/1HgSo21e_8k7GwWLhfoXnTZNtM6f9pQIL8eE3XeOQMDg/edit?usp=sharing]
-We also produced a detailed background pack, here [https://docs.google.com/document/d/1Y8yT5uh47Ev3iX_eo_EDXHy9TK8ck2WxcX9xHr0zKVA/edit?usp=sharing]
+Our findings were shared in a spreadsheet, [here.](https://docs.google.com/spreadsheets/d/1HgSo21e_8k7GwWLhfoXnTZNtM6f9pQIL8eE3XeOQMDg/edit?usp=sharing)
+We also produced a detailed background pack, available [here.](https://docs.google.com/document/d/1Y8yT5uh47Ev3iX_eo_EDXHy9TK8ck2WxcX9xHr0zKVA/edit?usp=sharing)
+
+# Partner usage
+
+The story featured among the morning bulletins on the BBC News Channel, the Today Programme and Radio Five Live, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire and BBC Radio Hertfordshire.
+
+To date, it has been used in more than 40 local news outlets:
+
+- Wigan Council vows to protect services as £9m cuts loom
+
+
+
 
 
