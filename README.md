@@ -1,6 +1,8 @@
 # Council_cuts_during_the_pandemic
 An analysis of the financial pressures facing UK councils as they emerged from the pandemic.
 
+![02c144bb-d4aa-4c6f-a23e-20da45d45b1f (2)](https://user-images.githubusercontent.com/61186777/125100168-b4702580-e0d0-11eb-9273-3de426e2920a.png)
+
 In July 2021, the Shared Data Unit analysed the budgets set by 170 upper and single tier councils across the UK.
 
 We found:
