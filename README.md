@@ -52,7 +52,7 @@ To date, it has been used in more than 40 local news outlets, including:
 - Insider.co.uk: [Only five Scottish councils planning to make no cuts this year](https://www.insider.co.uk/news/only-five-scottish-councils-planning-24496536) *09 July 2021*
 - Portsmouth News: [Local authorities across Portsmouth facing tough decisions amid budget cuts](https://www.portsmouth.co.uk/news/politics/local-authorities-across-portsmouth-region-facing-tough-decisions-amid-budget-cuts-3301546) *09 July 2021*
 - Sheffield Star: [How council tax in Sheffield compares to rest of England after maximum rise](https://www.thestar.co.uk/news/politics/how-council-tax-in-sheffield-compares-to-rest-of-england-after-maximum-rise-3301753) *09 July 2021*
-- Dail Record: [Scottish Councils plan to save £141m] (https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
+- Dail Record: [Scottish Councils plan to save £141m](https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
 
 
 
