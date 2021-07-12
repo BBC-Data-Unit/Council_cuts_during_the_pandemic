@@ -1,5 +1,5 @@
 # Pandemic leaves councils with £3bn black hole
-An analysis of the financial pressures facing UK councils as they emerged from the pandemic.
+An analysis of the financial pressures facing UK councils as they emerged from the coronavirus pandemic.
 
 ![02c144bb-d4aa-4c6f-a23e-20da45d45b1f (2)](https://user-images.githubusercontent.com/61186777/125100168-b4702580-e0d0-11eb-9273-3de426e2920a.png)
 
@@ -52,9 +52,11 @@ To date, it has been used in more than 40 local news outlets, including:
 - Insider.co.uk: [Only five Scottish councils planning to make no cuts this year](https://www.insider.co.uk/news/only-five-scottish-councils-planning-24496536) *09 July 2021*
 - Portsmouth News: [Local authorities across Portsmouth facing tough decisions amid budget cuts](https://www.portsmouth.co.uk/news/politics/local-authorities-across-portsmouth-region-facing-tough-decisions-amid-budget-cuts-3301546) *09 July 2021*
 - Sheffield Star: [How council tax in Sheffield compares to rest of England after maximum rise](https://www.thestar.co.uk/news/politics/how-council-tax-in-sheffield-compares-to-rest-of-england-after-maximum-rise-3301753) *09 July 2021*
-- Dail Record: [Scottish Councils plan to save £141m](https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
+- Daily Record: [Scottish Councils plan to save £141m](https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
 
+## Related repos
 
+You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
 
 
 
