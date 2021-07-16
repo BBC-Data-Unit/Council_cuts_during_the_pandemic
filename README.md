@@ -51,6 +51,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 - Daily Record: [Scottish Councils plan to save £141m](https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
 - Barking and Dagenham Post: [Funding gap set to grow as council emerges from Covid pandemic](https://www.barkinganddagenhampost.co.uk/news/local-council/council-funding-gap-forecast-after-covid-pandemic-8133730) *09 July 2021*
 - Nottinghamshire Live: [Nottingham City Council to make £16.7m savings this year amid 'exceptional pressure' and rising costs](https://www.nottinghampost.com/news/nottingham-news/nottingham-city-council-make-167m-5633491) *10 July 2021*
+- Daily Record: [Huge challenges still ahead despite no cuts this year, insist Renfrewshire finance chiefs](https://www.dailyrecord.co.uk/in-your-area/renfrewshire/huge-challenges-still-ahead-despite-24515008) *12 July 2021*
+- Cranfield and Marston Vale Chronicle: [Marston Vale councils to make over £21 million in savings](https://cranfieldandmarstonvale.co.uk/central-beds-council/marston-vale-councils-to-make-over-21-million-in-savings/) *12 July 2021*
+- 
 
 The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio. It was also covered by [BBC News Online West Midlands](https://www.bbc.co.uk/news/uk-england-57734298)
 
