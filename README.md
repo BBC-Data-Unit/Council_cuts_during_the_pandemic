@@ -49,6 +49,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 - Portsmouth News: [Local authorities across Portsmouth facing tough decisions amid budget cuts](https://www.portsmouth.co.uk/news/politics/local-authorities-across-portsmouth-region-facing-tough-decisions-amid-budget-cuts-3301546) *09 July 2021*
 - Sheffield Star: [How council tax in Sheffield compares to rest of England after maximum rise](https://www.thestar.co.uk/news/politics/how-council-tax-in-sheffield-compares-to-rest-of-england-after-maximum-rise-3301753) *09 July 2021*
 - Daily Record: [Scottish Councils plan to save £141m](https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
+- Barking and Dagenham Post: [Funding gap set to grow as council emerges from Covid pandemic](https://www.barkinganddagenhampost.co.uk/news/local-council/council-funding-gap-forecast-after-covid-pandemic-8133730) *09 July 2021*
+- Nottinghamshire Live: [Nottingham City Council to make £16.7m savings this year amid 'exceptional pressure' and rising costs](https://www.nottinghampost.com/news/nottingham-news/nottingham-city-council-make-167m-5633491) *10 July 2021*
 
 The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio. It was also covered by [BBC News Online West Midlands](https://www.bbc.co.uk/news/uk-england-57734298)
 
