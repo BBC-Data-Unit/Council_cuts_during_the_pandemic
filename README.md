@@ -40,11 +40,8 @@ Our findings were shared in a spreadsheet, [here.](https://docs.google.com/sprea
 We also produced a detailed background pack, available [here.](https://docs.google.com/document/d/1Y8yT5uh47Ev3iX_eo_EDXHy9TK8ck2WxcX9xHr0zKVA/edit?usp=sharing)
 
 # Partner usage
-The Shared Data Unit makes news available to our wider partner network.
 
-The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio.
-
-To date, it has been used in more than 40 local news outlets, including:
+The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. This report was used in more than 40 local news outlets, including:
 
 - Wigan Today: [Wigan Council vows to protect services as £9m cuts loom](https://www.wigantoday.net/news/politics/wigan-council-vows-to-protect-services-as-ps9m-cuts-loom-3301283) *09 July 2021*
 - Aberdeen Press and Journal: [Council cuts: Aberdeen City axes most from spending in pandemic](https://www.pressandjournal.co.uk/fp/news/politics/scottish-politics/3296617/council-cuts-aberdeen-city-axes-most-from-spending-in-pandemic/) *09 July 2021*
@@ -52,6 +49,8 @@ To date, it has been used in more than 40 local news outlets, including:
 - Portsmouth News: [Local authorities across Portsmouth facing tough decisions amid budget cuts](https://www.portsmouth.co.uk/news/politics/local-authorities-across-portsmouth-region-facing-tough-decisions-amid-budget-cuts-3301546) *09 July 2021*
 - Sheffield Star: [How council tax in Sheffield compares to rest of England after maximum rise](https://www.thestar.co.uk/news/politics/how-council-tax-in-sheffield-compares-to-rest-of-england-after-maximum-rise-3301753) *09 July 2021*
 - Daily Record: [Scottish Councils plan to save £141m](https://www.dailyrecord.co.uk/news/politics/scottish-councils-plan-save-141m-24487832) *09 July 2021*
+
+The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio. It was also covered by [BBC News Online West Midlands](https://www.bbc.co.uk/news/uk-england-57734298)
 
 ## Related repos
 
