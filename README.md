@@ -20,6 +20,9 @@ The Local Government Association said councils were not recompensed for their co
 
 In response, the Ministry of Housing, Communities and Local Government said some struggling councils had let down their residents through "chronic financial mismanagement".
 
+https://user-images.githubusercontent.com/61186777/126186543-a4fe3c83-73f1-45aa-ad2f-94cfadf45cbc.mp4
+
+
 
 # Method
 
