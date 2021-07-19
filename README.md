@@ -61,7 +61,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 - Cranfield and Marston Vale Chronicle: [Marston Vale councils to make over £21 million in savings](https://cranfieldandmarstonvale.co.uk/central-beds-council/marston-vale-councils-to-make-over-21-million-in-savings/) *12 July 2021*
 - Warrington Guardian: [Warrington won’t seek ‘exceptional’ financial support](https://www.warringtonguardian.co.uk/news/19442548.warrington-wont-seek-exceptional-financial-support/) *14 July 2021*
 
-The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio. It was also covered by [BBC News NI](https://www.bbc.co.uk/news/uk-northern-ireland-57763584) and [BBC News Online West Midlands](https://www.bbc.co.uk/news/uk-england-57734298)as well as on Sunday Politics broadcasts in the North East of England and the North West.  
+The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio. It was also covered by [BBC News NI](https://www.bbc.co.uk/news/uk-northern-ireland-57763584) and [BBC News Online West Midlands](https://www.bbc.co.uk/news/uk-england-57734298)as well as on Politics North and Politics Worth West.  
 
 ## Related repos
 
