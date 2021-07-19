@@ -12,6 +12,9 @@ We found:
 
 Although the central and devolved governments around the UK had issued billions of pounds worth of support for councils, the body that represents authorities in the UK said civic leaders were still left with large deficits.
 
+https://user-images.githubusercontent.com/61186777/126186763-5da9ab13-8580-4ae4-bc61-02eb35985ab2.mp4
+
+
 The approved cuts saw the threshold for which disabled or elderly individuals could receive care raised, bus subsidies scrapped and children’s centres closed in parts of the UK.
 
 While councils had lost income through parking fees, planning and crematoria charges - they also lost millions when commercial investments took a downturn during the pandemic.
@@ -20,7 +23,6 @@ The Local Government Association said councils were not recompensed for their co
 
 In response, the Ministry of Housing, Communities and Local Government said some struggling councils had let down their residents through "chronic financial mismanagement".
 
-https://user-images.githubusercontent.com/61186777/126186543-a4fe3c83-73f1-45aa-ad2f-94cfadf45cbc.mp4
 
 
 
