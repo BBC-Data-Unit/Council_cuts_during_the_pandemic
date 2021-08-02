@@ -60,6 +60,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 - Daily Record: [Huge challenges still ahead despite no cuts this year, insist Renfrewshire finance chiefs](https://www.dailyrecord.co.uk/in-your-area/renfrewshire/huge-challenges-still-ahead-despite-24515008) *12 July 2021*
 - Cranfield and Marston Vale Chronicle: [Marston Vale councils to make over £21 million in savings](https://cranfieldandmarstonvale.co.uk/central-beds-council/marston-vale-councils-to-make-over-21-million-in-savings/) *12 July 2021*
 - Warrington Guardian: [Warrington won’t seek ‘exceptional’ financial support](https://www.warringtonguardian.co.uk/news/19442548.warrington-wont-seek-exceptional-financial-support/) *14 July 2021*
+- St Helens Star: [St Helens not seeking ‘exceptional’ financial support](https://www.sthelensstar.co.uk/news/19450115.st-helens-not-seeking-exceptional-financial-support/) *17 July 2021*
 
 The story featured among the morning bulletins on the BBC News Channel, the Today Programme, Radio Five Live, Radio 6 Music, as well as on local radio stations including BBC Radio Shropshire, BBC Radio Cambridgeshire, BBC Radio Hertfordshire and Greatest Hits Radio. It was also covered by [BBC News NI](https://www.bbc.co.uk/news/uk-northern-ireland-57763584) and [BBC News Online West Midlands](https://www.bbc.co.uk/news/uk-england-57734298)as well as on Politics North and Politics Worth West.  
 
