@@ -66,6 +66,11 @@ The story featured among the morning bulletins on the BBC News Channel, the Toda
 
 ## Related repos
 
+We previously looked at council finances in the following stories:
+
+* [*UK councils fear bankruptcy amid Covid-19 costs*](https://github.com/BBC-Data-Unit/council_covid_bankrupt) 
+* [*English councils warned about 'running out' of reserve cash*](https://github.com/BBC-Data-Unit/council-reserves)
+
 You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
 
 
